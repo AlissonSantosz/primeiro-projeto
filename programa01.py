@@ -1,6 +1,6 @@
 nome = "alisson"
 ultimo_nome = "santos"
-idade = 29
+idade = 24
 altura = 1.67
 maior_de_idade = True
 
